@@ -43,7 +43,7 @@ float: right;
 
 .banner {
     height: 450px;
-    background-image: url(img/banner1.jpg);
+    background-image: url(banner1.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -198,7 +198,7 @@ section {
   }
   
   .strategy-wrapper {
-      background: url(img/bg-strategy.jpg);
+      background: url(bg-strategy.jpg);
       background-size: cover;
       display: block;
       margin: 0 auto;
